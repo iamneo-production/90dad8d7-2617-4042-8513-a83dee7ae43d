@@ -1,0 +1,41 @@
+.leave{
+    background: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwpHx1jI6tOpFj5qUhIm8A_I4g69qeh_0BZGvZY3tor3YX0wtHDZZ5KdenPdY6NUtZB9o&usqp=CAU");
+  background-size: contain;
+  
+  background-repeat: no-repeat;
+  margin-top: 100px;
+  margin-bottom: -771px;
+  margin-left:200px;
+  height: 620px;
+  text-align: center;
+  padding-top: 50px;
+  text-decoration: none;
+  width: 270px;
+  
+  font-weight: 400;
+  font-size: 30px;
+  font-family: 'Fira Sans', sans-serif;
+  color:black;
+  box-shadow: 0px 14px 80px rgba(34, 35, 58, 0.2);
+ 
+  border-radius: 15px;
+}
+.leavereq{
+    margin-top: 160px;
+    margin-left: 100px;
+    
+}
+.signup1{
+    margin: auto;
+    
+    width: 750px;
+   
+    
+    box-shadow: 0px 14px 80px rgba(34, 35, 58, 0.2);
+    padding: 40px 55px 45px 55px;
+    border-radius: 15px;
+    transition: all .3s;
+    margin-top: 100px;
+    height: 610px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}

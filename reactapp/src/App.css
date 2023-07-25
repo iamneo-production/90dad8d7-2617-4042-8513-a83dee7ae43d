@@ -1,0 +1,11 @@
+* {
+    box-sizing: border-box;
+  }
+  
+  #page-wrap {
+    padding-bottom: 10px;
+    padding-top: 10px;
+  }
+  body {
+    font-family: Roboto, Helvetica, Arial, sans-serif;
+  }

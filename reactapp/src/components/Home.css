@@ -1,0 +1,367 @@
+@import url('https://fonts.googleapis.com/css?family=Fira+Sans:400,500,600,700,800');
+* {
+  box-sizing: border-box;
+}
+
+body{
+    background-color: #E4E4DC;
+}
+/* body {
+  background: #d5dee6 !important;
+  height: 600px;
+  display: flex;
+  font-weight: 400;
+  font-family: 'Fira Sans', sans-serif;
+} */
+body{
+    font-family: 'Fira Sans', sans-serif;
+}
+.hometotal{
+  background: url("https://darvideo.tv/wp-content/uploads/2019/08/Project-Manager.jpg");
+  background-size: contain;
+  
+  background-repeat: no-repeat;
+  
+  
+  
+  
+  text-align: center;
+  padding-top: 50px;
+  height: 300px;
+  width: 300px;
+  
+  font-weight: 400;
+  font-size: 30px;
+  font-family: 'Fira Sans', sans-serif;
+  color:black;
+  box-shadow: 0px 14px 80px rgba(34, 35, 58, 0.2);
+ 
+  border-radius: 15px;
+  
+}
+.hometotal:hover{
+  transform: scale(1.1);
+  z-index: 2;
+ ;
+  
+  color:black;
+		box-shadow: 2px 2px 2px white;
+ 
+ 
+ 
+}
+.projectct{
+  background: url("https://img.freepik.com/premium-vector/female-architect-presenting-project-concept-cartoon-illustration_338371-31.jpg?w=2000");
+  background-size: contain;
+ 
+  background-repeat: no-repeat;
+
+  margin-top: 20px;
+  padding-top: 50px;
+  text-align: center;
+  margin-left: 20px;
+  
+  
+  height: 300px;
+  font-size: 30px;
+  color: black;
+  width: 300px;
+  
+  font-weight: 400;
+  font-family: 'Fira Sans', sans-serif;
+  box-shadow: 0px 14px 80px rgba(34, 35, 58, 0.2);
+ 
+  border-radius: 15px;
+
+}
+.emponline:hover{
+  transform: scale(1.1);
+  z-index: 2;
+ 
+  color: black;
+		box-shadow: 2px 2px 2px #000;
+ 
+ 
+  box-shadow: 2px 2px 2px white;
+}
+.emponline{
+  background: url("https://media.istockphoto.com/id/1165671399/vector/agile-software-development-methodology-concept-vector-illustration.jpg?s=612x612&w=0&k=20&c=Oy-jcQAdfyJHE9NZKcjjzlCPBsovzmPobxbYW8o6O64=");
+  background-size: contain;
+  
+  background-repeat: no-repeat;
+  
+  padding-top: 50px;
+  text-align: center;
+  color: black;
+  
+  margin-left: 20px;
+  height: 300px;
+  width: 300px;
+  
+  font-weight: 400;
+  text-align: center;
+  font-size: 30px;
+  font-family: 'Fira Sans', sans-serif;
+  box-shadow: 0px 14px 80px rgba(34, 35, 58, 0.2);
+ 
+  border-radius: 15px;
+
+}
+.home{
+  
+  display: flex;
+  margin:100px;
+  margin-left: 500px;
+  padding-top: 100px;
+ 
+  /* margin:auto; */
+  height: 450px;
+  width: 550px;
+  padding: 50px;
+}
+.projectct:hover{
+  transform: scale(1.1);
+  z-index: 2;
+ 
+  color: black;
+		box-shadow: 2px 2px 2px #000;
+ 
+ 
+  box-shadow: 2px 2px 2px white;
+  
+}
+.projectotal:hover{
+  transform: scale(1.1);
+  z-index: 2;
+  
+  
+  color: black;
+		box-shadow: 2px 2px 2px #7baf1b ;
+ 
+ 
+  box-shadow: 2px 2px 2px white;
+
+}
+.imge{
+    position: relative;
+    
+    background:url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT173iaPsZ3mJfQ8Mf3k7KzCtAD4h1D9YSB7X5OnJYRUTo71vNxTzPMv9417Xm8YOn0YKY&usqp=CAU);
+}
+/* .profile{
+    float: right;
+    margin-top: -700px;
+} */
+.profile{
+    float:right;
+    
+  
+  text-align: left;
+  position: relative;
+  color: #4c6d99;
+  
+  
+  margin-top: -45%;
+
+  font-size: 30px;
+  font-weight: 400;
+  font-family: 'Fira Sans', sans-serif;
+  padding-left: 0px;
+  height: 400px;
+  width: 350px;
+  font-size: 30px;
+  font-weight: 400;
+  font-family: 'Fira Sans', sans-serif;
+ 
+}
+.det{
+  margin-top: 230px;;
+}
+.hometotal1{
+ 
+  
+  margin-top: 260px;
+  margin-left:-145px;
+  height: 620px;
+  text-align: center;
+  padding-top: 50px;
+  
+  text-decoration: none;
+  width: 270px;
+  
+  font-weight: 400;
+  font-size: 30px;
+  font-family: 'Fira Sans', sans-serif;
+  color:black;
+  box-shadow: 0px 14px 80px rgba(34, 35, 58, 0.2);
+ 
+  border-radius: 15px;
+
+}
+.progress-barh1 {
+  display: flex;
+  
+  justify-content: center;
+  align-items: center;
+  
+
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  background: 
+    radial-gradient(closest-side, white 89%, transparent 80% 100%),
+    conic-gradient(rgb(105, 140, 255) 80%, lightgrey 0);    
+}
+.progress-barh2{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
+
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  background: 
+    radial-gradient(closest-side, white 89%, transparent 80% 100%),
+    conic-gradient(rgb(179, 231, 136) 90%, lightgrey 0); 
+
+}
+.hometotal2{
+  background: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQsKGDVjmXL6YAOJW9JzOrM-iXR0Fo7Mny-GIwD8VAagcHSl1VEwdOuFuMFWTtzGiPAM0&usqp=CAU");
+  background-size: contain;
+  
+  background-repeat: no-repeat;
+  margin-top: 100px;
+  margin-bottom: -771px;
+  margin-left:260px;
+  height: 620px;
+  text-align: center;
+  padding-top: 50px;
+  text-decoration: none;
+  width: 270px;
+  
+  font-weight: 400;
+  font-size: 30px;
+  font-family: 'Fira Sans', sans-serif;
+  color:black;
+  box-shadow: 0px 14px 80px rgba(34, 35, 58, 0.2);
+ 
+  border-radius: 15px;
+}
+
+.projectotal{
+   background: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRY0ohyYtyqBwTrD84ir_xEYSWjoNFhAGOwL1us1ejFPvFfl3OJYJRADcL4r1Wjdy7GEDE&usqp=CAU");
+  background-size: contain;
+ text-decoration: none;
+  background-repeat: no-repeat;
+ 
+  margin-top: 20px;
+ ;
+  padding-top: 70px;
+  padding-left: 10px;
+  text-align: center;
+  height: 300px;
+  color: black;
+  width: 300px;
+  
+  font-size: 30px;
+  font-weight: 400;
+  font-family: 'Fira Sans', sans-serif;
+  box-shadow: 0px 14px 80px rgba(34, 35, 58, 0.2);
+ 
+  border-radius: 15px;
+  
+
+}
+
+.db{
+  color: #787e86;
+  display:flex;
+  flex: 1;
+  position: relative;
+  
+  font-size: 20px;
+  margin: 500px;
+  
+  margin-left: -150px;
+}
+.dash{
+  background-color:#d1d4cb;
+  float: left;
+ 
+  text-align: left;
+  position: relative;
+  color: #787e86;
+  
+  
+  margin-top: -130px;
+  font-size: 30px;
+  font-weight: 400;
+  font-family: 'Fira Sans', sans-serif;
+  padding-left: 0px;
+  height: 1100px;
+  width: 300px;
+  font-size: 30px;
+  font-weight: 400;
+  font-family: 'Fira Sans', sans-serif;
+  box-shadow: 0px 14px 80px rgba(34, 35, 58, 0.2);
+ 
+  border-radius: 15px;
+}
+.navbar-light {
+    background-color: lightgrey ;
+    color: black;
+    box-shadow: 0px 14px 80px rgba(34, 35, 58, 0.2);
+  }
+  .imge{
+    height: 300px;
+    margin-top: 30px;
+    margin-left: 50px;
+    margin-bottom: 20px;
+    width: 270px;
+    border-radius: 100%;
+  }
+  .footer{
+    background-color: #000;
+    margin-top: 250px;
+    height: 200px;
+  }
+  /* .profiledet{
+    margin-left: 25px;
+    margin-top: 20px;
+    background: #787e86 ;
+    padding-top: 70px;
+    padding-left: 10px;
+    text-align: center;
+   
+    color: #fffbfb;
+    width: 300px;
+    height: 700px;
+    display: flex;
+    font-size: 30px;
+    font-weight: 400;
+    font-family: 'Fira Sans', sans-serif;
+    box-shadow: 0px 14px 80px rgba(34, 35, 58, 0.2);
+   
+    border-radius: 15px;
+
+  } */
+  .bars{
+    margin-left: -13px;
+  }
+  .progress-barh5{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-left: -20px;
+
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  background: 
+    radial-gradient(closest-side, white 89%, transparent 80% 100%),
+    conic-gradient(rgb(137, 217, 219) 10%, lightgrey 0); 
+  }
+  .br5{
+    margin-left: -10px;
+  }
+ 

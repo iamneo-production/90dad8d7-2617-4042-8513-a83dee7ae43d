@@ -1,0 +1,49 @@
+.prof{
+    background: url("https://img.freepik.com/premium-vector/man-avatar-profile-round-icon_24640-14046.jpg?w=2000");
+      background-size: 50%;
+      
+      background-repeat: no-repeat;
+      margin-top: 100px;
+      margin-bottom: -771px;
+      margin-left:250px;
+      height: 700px;
+      text-align: justify;
+      padding: 20px;
+      
+      padding-top: 50px;
+      text-decoration: none;
+      width: 570px;
+      
+      font-weight: 400;
+      font-size: px;
+      font-family: 'Fira Sans', sans-serif;
+      color:black;
+      box-shadow: 0px 14px 80px rgba(34, 35, 58, 0.2);
+     
+      border-radius: 15px;
+}
+.welmsg{
+  margin-left: 280px;
+  margin-top: 70px;
+}
+.profcont{
+  margin-top: 200px;
+}
+.upd{
+  margin-top: 80px;
+  margin-left: 910px;
+}
+.signup1{
+  margin: auto;
+  
+  width: 450px;
+ 
+  background: #ffffff;
+  box-shadow: 0px 14px 80px rgba(34, 35, 58, 0.2);
+  padding: 40px 55px 45px 55px;
+  border-radius: 15px;
+  transition: all .3s;
+  margin-top: 100px;
+  height: 750px;
+  
+}
